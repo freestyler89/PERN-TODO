@@ -1,4 +1,4 @@
-#For starting backend, at first, you need to configure SQL base using PostgreSQL:
+For starting backend, at first, you need to configure SQL base using PostgreSQL:
 #
   user: "postgres",
   password: "superuser",
