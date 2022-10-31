@@ -2,7 +2,7 @@
 #
 To Do List test application
 #
-###Firstly, for starting frontend, open client folder in terminal and then type:
+### Firstly, for starting frontend, open client folder in terminal and then type:
 #
 npm start
 
