@@ -9,3 +9,5 @@ For starting backend, at first, you need to configure SQL base using PostgreSQL:
  port: 5432,
  #
  database: "perntodo"
+#
+"SELECT * FROM todo;"  -- for listing
